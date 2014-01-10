@@ -1,5 +1,7 @@
 # Rebar-friendly fork of Erlang AMQP client
 
+This is a fork of jbrisbin's version which targets a forked rabbit_common with fixes to work correctly with reltool.
+
 This is a fork of the [official RabbitMQ/AMQP Erlang client](https://github.com/rabbitmq/rabbitmq-erlang-client). 
 
 It's meant to be included in your rebar projects in your rebar.config file:
